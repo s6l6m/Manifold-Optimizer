@@ -1,0 +1,16 @@
+ipykernel==7.2.0
+jupyter==1.1.1
+notebook==7.5.5
+plotly==6.7.0
+umap-learn==0.5.12
+pandas<=2.4.0
+pacmap==0.9.1
+pymilvus==2.6.12
+zadu==0.4.1
+seaborn==0.13.2
+molplotly==1.1.7
+chemap[gpu-cu13]==0.3.6
+optuna==4.8.0
+optuna-dashboard==0.20.0
+scipy==1.17.1
+torch==2.11.0
